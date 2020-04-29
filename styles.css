@@ -1,0 +1,42 @@
+
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+img{
+	width:100%;
+	height:auto;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.btn-btn-secondary{
+	text-align:center;
+}
+.button{
+	position:absolute;
+	top:50%;
+}
+footer{
+	color: white;
+	background-color: black;
+
+}
+.ses{
+	color:white;
+}
+.lang{
+	text-align:center;
+}
+.row{
+	background-color:light blue;
+}
+
+.part{
+	font-color:white;
+}
+* {box-sizing:border-box}
+
